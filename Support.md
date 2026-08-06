@@ -50,7 +50,7 @@ In a project's detail view, you can already store notes and goals. But often, pr
 
 From here, you see the button "New Branch". Tap it to create one.
 
-The creation process is similar to this of a project, as you can use titles, subtitles, deadlines and choose a symbol. New for branches is their location. **Tap "Project root" and select the project or branch inside this project where the new branch should be embedded in. The container where you create the new branch is selected by default.
+The creation process is similar to this of a project, as you can use titles, subtitles, deadlines and choose a symbol. New for branches is their location. **Tap "Project root" and select the project or branch** inside this project where the new branch should be embedded in. The container where you create the new branch is selected by default.
 
 #### Working in a branch
 
